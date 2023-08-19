@@ -1,5 +1,3 @@
-# stroke-prediction-aws-sagemaker
-
 AWS Sagemaker is used to create a Machine Learning Engineering pipeline (AWS pipeline) to predict Stroke.
 
 The pipeline consists of:
