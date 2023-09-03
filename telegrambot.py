@@ -19,7 +19,7 @@ random.seed(10)
 model = xgb.Booster()
 model.load_model('xgboost-model')
 
-api = "5994888438:AAGyeSpxxAbXWFMq4yWkcP472G6XXF1QdKc"
+api = "{your-token}"
 
 # Enable logging
 logging.basicConfig(
